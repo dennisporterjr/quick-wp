@@ -28,3 +28,5 @@ node_modules/
 
 wp-*.php
 xmlrpc.php
+!wp-config.php
+!wp-config-sample.php
