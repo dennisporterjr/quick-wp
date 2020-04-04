@@ -1,8 +1,5 @@
 #!/bin/sh
 
-# wordpress git ignore
-curl https://raw.githubusercontent.com/github/gitignore/master/WordPress.gitignore > .gitignore
-
 # download wordpress
 wget http://wordpress.org/latest.tar.gz
 
