@@ -23,7 +23,3 @@ mv -v ./wordpress/* .
 # remove wordpress folder
 rm -r wordpress
 rm latest.tar.gz
-
-printf "************\n"
-printf "* Clean Up *\n"
-printf "************\n\n"
