@@ -23,3 +23,4 @@ mv -v ./wordpress/* .
 # remove wordpress folder
 rm -r wordpress
 rm latest.tar.gz
+rm README.md
